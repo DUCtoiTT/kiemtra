@@ -1,6 +1,7 @@
 # Giang Minh Đức
 # 22810310182
 # Kiểm tra
-![41c73cc4-7285-4381-bb7b-d172710b7feb](https://github.com/user-attachments/assets/0fcf72a8-01dd-497b-89d2-09e99fe38e62)
-![015afde7-c91d-4100-89da-76f023e4df1b](https://github.com/user-attachments/assets/69f8897a-2721-443f-8fdf-7a41289559a8)
+![bcb090c4-b7ff-460a-a583-e41c955b0055](https://github.com/user-attachments/assets/31338f2b-2a7d-4ca7-b9fd-e86e531b04f6)
+![ecdb7abc-f320-47eb-b8ba-6db29a7f503c](https://github.com/user-attachments/assets/2a544fb4-2a15-4d11-bb0f-27691673bedc)
+
 
